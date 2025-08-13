@@ -1,6 +1,6 @@
 # Car_dashboard_powerBI
 
-![Car Dashboard](Car_dashboard_powerBI/car%20dashboard.png)
+![Car Dashboard](car%20dashboard.png)
 
 # 🚗 Car Sales Dashboard - Power BI
 
