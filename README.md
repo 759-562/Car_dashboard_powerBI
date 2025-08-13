@@ -1,6 +1,7 @@
 # Car_dashboard_powerBI
 
-!()[Car_dashboard_powerBI/car dashboard.png]
+![Car Dashboard](Car_dashboard_powerBI/car%20dashboard.png)
+
 # 🚗 Car Sales Dashboard - Power BI
 
 This Power BI dashboard provides a comprehensive view of car sales performance, showcasing year-over-year comparisons, monthly trends, sales breakdowns, and service metrics.
